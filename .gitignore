@@ -1,2 +1,10 @@
 .env
 node_modules
+.git
+map.controller.js
+ride.controller.js
+ride.model.js
+maps.routes.js
+ride.routes.js
+maps.service.js
+ride.service.js
